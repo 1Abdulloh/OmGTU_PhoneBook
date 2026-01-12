@@ -1,0 +1,15 @@
+{
+    "name": "omgtu/phone-directory",
+    "description": "Phone Directory for OмГТУ",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.5",
+        "league/oauth2-client": "^2.7",
+        "aego/oauth2-yandex": "^0.2.2"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
